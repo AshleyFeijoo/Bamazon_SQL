@@ -10,9 +10,11 @@
 
 * The Manager view gives a unqiue set of commands to store managers for viewing and updating inventory.
 
-* The supervisor view ***NOT YET IMPLIMENTED*** The supervisor View will allow supervisors to view product sales and profits.
+* ***NOT YET IMPLEMENTED*** The supervisor view The supervisor View will allow supervisors to view product sales and profits.
 
 * When a product is purchased, the order will "process" and remove the quantity bought form the storefront database.
+
+* All customer and manager input is logged in log files.
 
 ***
 
@@ -37,8 +39,8 @@ Bamazon is built with the following extensions/programs:
 
     * This command will display the "Customer View". The customer view prompts the user for inventory and quantity.
 
-        ![customer-Demo](./images/CUSTOMER_WELCOME_SCREEN.gif);
+        ![customer-Demo](./images/CUSTOMER_WELCOME_SCREEN.gif)
 
     * The customer will then enter an ID and the amount to purchase.
 
-        ![customer-Welcome](./images/Customer_Purchase_Demo.gif);
+        ![customer-Welcome](./images/Customer_Purchase_Demo.gif)
