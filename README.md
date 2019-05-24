@@ -35,9 +35,9 @@ Bamazon is built with the following extensions/programs:
 
 ***
 
-1. `node bamazonCustomer.js`
+1. `node bamazonCustomer`
 
-    * This command will display the "Customer View". The customer view prompts the user for inventory and quantity.
+    * This command will display the **Customer View**. The customer view prompts the user for inventory and quantity.
 
         ![customer-Demo](./images/CUSTOMER_WELCOME_SCREEN.gif)
 
@@ -52,3 +52,20 @@ Bamazon is built with the following extensions/programs:
     * If the product stock is insufficient, the purchase will not go through.
 
         ![customer-Error](./images/Customer_Error.gif)
+
+***
+***
+
+2. `node bamazonManager`
+
+    * This command will display the **Manager View**. The manager view allows managers of the store to select managerial commands.
+
+    * When first prompted, `node bamazonManager` will show the manager the following screen:
+
+        ![Manager-Welcome](./images/Manager_Welcome_Demo.gif)
+
+        * View Products
+
+            * View products will allow the manager to see all the inventory for the store.
+
+                ![manager-View](./images/Manager_View_Products.gif)
