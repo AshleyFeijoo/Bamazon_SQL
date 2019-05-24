@@ -37,8 +37,8 @@ Bamazon is built with the following extensions/programs:
 
     * This command will display the "Customer View". The customer view prompts the user for inventory and quantity.
 
-        ![customer-Demo](/images/Liri_Bot_spotify-this-song-1_Demo.gif);
+        ![customer-Demo](./images/CUSTOMER_WELCOME_SCREEN.gif);
 
     * The customer will then enter an ID and the amount to purchase.
 
-        ![customer-Welcome](/images/Customer.gif);
+        ![customer-Welcome](./images/Customer_Purchase_Demo.gif);
