@@ -1,0 +1,234 @@
+connected as id 499
+    ================== ITEMS AVAILABLE FOR PURCHASE ==================
+    
+      ========+ FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT +========
+      ID: 5
+      Department: APPAREL
+      Price: $12.89
+      Stock: 4
+      =====================++++++======================
+      
+      ========+ SAMSUNG CHROMEBOOK 3 +========
+      ID: 4
+      Department: ELECTRONICS
+      Price: $139.81
+      Stock: 6
+      =====================++++++======================
+      
+      ========+ DYSON CYCLONE V10 +========
+      ID: 2
+      Department: HOME & KITCHEN
+      Price: $399.99
+      Stock: 7
+      =====================++++++======================
+      
+      ========+ HAMILTON BEACH WAVE CRUSHER BLENDER +========
+      ID: 3
+      Department: HOME & KITCHEN
+      Price: $29.99
+      Stock: 10
+      =====================++++++======================
+      
+      ========+ BAMAZONBASICS 18-PIECE DINNERWARE SET +========
+      ID: 10
+      Department: HOME & KITCHEN
+      Price: $39.99
+      Stock: 11
+      =====================++++++======================
+      
+      ========+ RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE +========
+      ID: 8
+      Department: OUTDOOR & GARDEN
+      Price: $22.99
+      Stock: 1
+      =====================++++++======================
+      
+      ========+ COMFORT PLUS 8-PIECE GARDENING TOOL SET +========
+      ID: 9
+      Department: OUTDOOR & GARDEN
+      Price: $52.99
+      Stock: 3
+      =====================++++++======================
+      
+      ========+ STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS +========
+      ID: 6
+      Department: APPAREL
+      Price: $16.98
+      Stock: 5
+      =====================++++++======================
+      
+      ========+ CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS +========
+      ID: 7
+      Department: APPAREL
+      Price: $23.99
+      Stock: 9
+      =====================++++++======================
+      
+      ========+ TCL 43 INCH 4K TV +========
+      ID: 1
+      Department: ELECTRONICS
+      Price: $239.99
+      Stock: 18
+      =====================++++++======================
+      connected as id 500
+    ================== ITEMS AVAILABLE FOR PURCHASE ==================
+    
+      ========+ FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT +========
+      ID: 5
+      Department: APPAREL
+      Price: $12.89
+      Stock: 4
+      =====================++++++======================
+      
+      ========+ SAMSUNG CHROMEBOOK 3 +========
+      ID: 4
+      Department: ELECTRONICS
+      Price: $139.81
+      Stock: 6
+      =====================++++++======================
+      
+      ========+ DYSON CYCLONE V10 +========
+      ID: 2
+      Department: HOME & KITCHEN
+      Price: $399.99
+      Stock: 7
+      =====================++++++======================
+      
+      ========+ HAMILTON BEACH WAVE CRUSHER BLENDER +========
+      ID: 3
+      Department: HOME & KITCHEN
+      Price: $29.99
+      Stock: 10
+      =====================++++++======================
+      
+      ========+ BAMAZONBASICS 18-PIECE DINNERWARE SET +========
+      ID: 10
+      Department: HOME & KITCHEN
+      Price: $39.99
+      Stock: 11
+      =====================++++++======================
+      
+      ========+ RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE +========
+      ID: 8
+      Department: OUTDOOR & GARDEN
+      Price: $22.99
+      Stock: 1
+      =====================++++++======================
+      
+      ========+ COMFORT PLUS 8-PIECE GARDENING TOOL SET +========
+      ID: 9
+      Department: OUTDOOR & GARDEN
+      Price: $52.99
+      Stock: 3
+      =====================++++++======================
+      
+      ========+ STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS +========
+      ID: 6
+      Department: APPAREL
+      Price: $16.98
+      Stock: 5
+      =====================++++++======================
+      
+      ========+ CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS +========
+      ID: 7
+      Department: APPAREL
+      Price: $23.99
+      Stock: 9
+      =====================++++++======================
+      
+      ========+ TCL 43 INCH 4K TV +========
+      ID: 1
+      Department: ELECTRONICS
+      Price: $239.99
+      Stock: 18
+      =====================++++++======================
+      
+              • • •  • • •  • • •  • • • 
+              Processing your order now!
+              • • •  • • •  • • •  • • • 
+              
+              • • •  • • •  • • •  • • • 
+                COMPLETE!
+              • • •  • • •  • • •  • • • 
+              
+    ================== ITEMS AVAILABLE FOR PURCHASE ==================
+    
+      ========+ STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS +========
+      ID: 6
+      Department: APPAREL
+      Price: $16.98
+      Stock: 5
+      =====================++++++======================
+      
+      ========+ CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS +========
+      ID: 7
+      Department: APPAREL
+      Price: $23.99
+      Stock: 9
+      =====================++++++======================
+      
+      ========+ FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT +========
+      ID: 5
+      Department: APPAREL
+      Price: $12.89
+      Stock: 4
+      =====================++++++======================
+      
+      ========+ SAMSUNG CHROMEBOOK 3 +========
+      ID: 4
+      Department: ELECTRONICS
+      Price: $139.81
+      Stock: 6
+      =====================++++++======================
+      
+      ========+ TCL 43 INCH 4K TV +========
+      ID: 1
+      Department: ELECTRONICS
+      Price: $239.99
+      Stock: 18
+      =====================++++++======================
+      
+      ========+ HAMILTON BEACH WAVE CRUSHER BLENDER +========
+      ID: 3
+      Department: HOME & KITCHEN
+      Price: $29.99
+      Stock: 10
+      =====================++++++======================
+      
+      ========+ BAMAZONBASICS 18-PIECE DINNERWARE SET +========
+      ID: 10
+      Department: HOME & KITCHEN
+      Price: $39.99
+      Stock: 9
+      =====================++++++======================
+      
+      ========+ RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE +========
+      ID: 8
+      Department: OUTDOOR & GARDEN
+      Price: $22.99
+      Stock: 1
+      =====================++++++======================
+      
+      ========+ COMFORT PLUS 8-PIECE GARDENING TOOL SET +========
+      ID: 9
+      Department: OUTDOOR & GARDEN
+      Price: $52.99
+      Stock: 3
+      =====================++++++======================
+      
+      ========+ DYSON CYCLONE V10 +========
+      ID: 2
+      Department: HOME & KITCHEN
+      Price: $399.99
+      Stock: 7
+      =====================++++++======================
+      
+              • • •  • • •  • • •  • • • 
+              Processing your order now!
+              • • •  • • •  • • •  • • • 
+              
+              • • •  • • •  • • •  • • • 
+                COMPLETE!
+              • • •  • • •  • • •  • • • 
+              
++======= THANK-YOU FOR SHOPPING WITH US =======+

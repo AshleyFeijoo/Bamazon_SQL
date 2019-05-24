@@ -44,3 +44,7 @@ Bamazon is built with the following extensions/programs:
     * The customer will then enter an ID and the amount to purchase.
 
         ![customer-Welcome](./images/Customer_Purchase_Demo.gif)
+
+    * The customer is prompted to continue purchasing, or end their purchase.
+
+        ![customer-end](./images/Customer_end_demo.gif)
