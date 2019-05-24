@@ -48,3 +48,7 @@ Bamazon is built with the following extensions/programs:
     * The customer is prompted to continue purchasing, or end their purchase.
 
         ![customer-end](./images/Customer_end_demo.gif)
+
+    * If the product stock is insufficient, the purchase will not go through.
+
+        ![customer-Error](./images/Customer_Error.gif)

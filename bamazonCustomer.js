@@ -136,7 +136,12 @@ ask(); //the ask function is called upon which prompts the user to enter the
             }else{
               // if the stock needed is greater than what it is in stock
               // the function will tell the user, and prompt them again.
-              logIt(`Insufficient Quantity!`);
+              logIt(`
+              \n• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • • \n
+              \tInsufficient Quantity!
+              \t  Please try again!
+              \n• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • • \n
+              `);
               ask();
             }
           });
