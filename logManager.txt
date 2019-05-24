@@ -162,4 +162,70 @@ connected as id 512View Products
           PRICE: $139.81
           STOCK: 6
           ==========================================
-          
+          connected as id 514View Low Inventory[object Object][object Object]connected as id 515View Low Inventory{
+  "Itemid": 5,
+  "product_name": "Fruit of the Loom Men's Tucked V-Neck T-Shirt",
+  "department_name": "Apparel",
+  "price": 12.89,
+  "stock_quantity": 4
+}{
+  "Itemid": 9,
+  "product_name": "Comfort Plus 8-Piece Gardening Tool Set",
+  "department_name": "Outdoor & Garden",
+  "price": 52.99,
+  "stock_quantity": 3
+}connected as id 516View Low Inventory
+                    ==========================================
+                    ID: 5
+                    ITEM NAME: Fruit of the Loom Men's Tucked V-Neck T-Shirt
+                    STOCK: 4
+                    ==========================================
+                    
+                    ==========================================
+                    ID: 9
+                    ITEM NAME: Comfort Plus 8-Piece Gardening Tool Set
+                    STOCK: 3
+                    ==========================================
+                    connected as id 517View Low Inventory
+                    
+==========================================
+
+                    ITEM NAME: Fruit of the Loom Men's Tucked V-Neck T-Shirt
+                    STOCK: 4
+                    PRODUCT ID: 5
+                    
+==========================================
+
+                    
+                    
+==========================================
+
+                    ITEM NAME: Comfort Plus 8-Piece Gardening Tool Set
+                    STOCK: 3
+                    PRODUCT ID: 9
+                    
+==========================================
+
+                    connected as id 518View Low Inventory
+                    
+==========================================
+                    
+ITEM NAME: Fruit of the Loom Men's Tucked V-Neck T-Shirt
+                    
+STOCK: 4
+                    
+PRODUCT ID: 5
+                    
+==========================================
+                    
+                    
+==========================================
+                    
+ITEM NAME: Comfort Plus 8-Piece Gardening Tool Set
+                    
+STOCK: 3
+                    
+PRODUCT ID: 9
+                    
+==========================================
+                    

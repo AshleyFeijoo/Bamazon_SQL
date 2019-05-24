@@ -98,7 +98,13 @@ function showLowInventory(){
             result.forEach(function(item){
                 // logIt(item.stock_quantity);
                 if (item.stock_quantity < 5){
-                    logIt(item);
+                    logIt(`
+                    \n==========================================
+                    \nITEM NAME: ${item.product_name}
+                    \nSTOCK: ${item.stock_quantity}
+                    \nPRODUCT ID: ${item.Itemid}
+                    \n==========================================
+                    `);
                 }
             })
             

@@ -69,3 +69,9 @@ Bamazon is built with the following extensions/programs:
         * View products will allow the manager to see all the inventory for the store.
 
             ![manager-View](./images/Manager_View_Products.gif)
+
+    * View Low Inventory
+
+        * View Low Inventory will allow the manager to see all the products in the store that have less than 5 items in stock.
+
+            ![manager-View](./images/Manager_View_Products.gif)
