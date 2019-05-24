@@ -64,8 +64,8 @@ Bamazon is built with the following extensions/programs:
 
         ![Manager-Welcome](./images/Manager_Welcome_Demo.gif)
 
-        * View Products
+    * View Products
 
-            * View products will allow the manager to see all the inventory for the store.
+        * View products will allow the manager to see all the inventory for the store.
 
-                ![manager-View](./images/Manager_View_Products.gif)
+            ![manager-View](./images/Manager_View_Products.gif)
