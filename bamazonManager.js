@@ -15,7 +15,7 @@ let con = mysql.createConnection({
   user: "root",
   port: '8889',
   password: "root",
-  database: "blamazon_db"
+  database: "bamazon_db"
 });
 
 con.connect(function(err) {
@@ -30,35 +30,42 @@ function ask(){
         {
             type: 'list',
             name: 'manage',
-            message: "What do you want to do?",
-            choices: ['View Products', 'View Low Inventory', 'Add to Inventory', 'Add New Product', 'Delete Product']
+            message:`
+  • • •  • • •  • • •  • • •
+ \t + MAIN MENU +
+  • • •  • • •  • • •  • • •\t
+            `,
+            choices: ['• View Products', '• View Low Inventory', '• Add to Inventory', '• Add New Product', '• Delete Product', '* Exit']
         }
     ]).then(answers => {
         let answer=answers.manage;
         switch(answer){
-            case 'View Products':
+            case '• View Products':
             logIt(answer);
             showInventory();
             break;
 
-            case 'View Low Inventory':
-            logIt(answer);
+            case '• View Low Inventory':
             showLowInventory();
             break;
 
-            case 'Add to Inventory':
+            case '• Add to Inventory':
             addInventory();
             break;
 
-            case 'Add New Product':
+            case '• Add New Product':
             addNewProduct();
             break;
 
-            case 'Delete Product':
+            case '• Delete Product':
             deleteProduct();
             break;
 
-            default: 'View Products';
+            case '* Exit':
+            con.end();
+            break;
+
+            default: '• View Products';
             break;
         };
         });
@@ -87,7 +94,12 @@ function showInventory(){
           `);
           prodIdArr.push(productID);
       });
-      con.end();
+      logIt(`
+        \n• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •\n
+        MAIN MENU
+        \n• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+        `);
+      ask();
     });
 };
 
@@ -107,8 +119,7 @@ function showLowInventory(){
                     `);
                 }
             })
-            
-            con.end();
+            ask();
         });
 };
 
@@ -152,34 +163,46 @@ function addInventory(){
             filter: Number
           }
         ]).then(answers => {
-            console.log(answers.prodId);
-            console.log(answers.quant);
-            console.log("Updating product quantities...\n");
-            let sql = `UPDATE products
-            SET stock_quantity = ${answers.quant}
-            WHERE Itemid = ${answers.prodId}`
-       // execute the UPDATE statement
-            con.query(sql, (error, results) => {
-                if (error){
-                return console.error(error.message);
-                }
-                logIt('Rows affected:', results.affectedRows);
-                inquirer.prompt([
-                    {
-                        type: "confirm",
-                        message: "Do you want to add more?",
-                        name: "confirm",
-                        default: true
+            con.query("SELECT * FROM products WHERE Itemid =" + answers.prodId, 
+            function (err, res) {
+                if (err) throw err;
+                stockOne = res[0].stock_quantity;
+                var completeNewStock = stockOne + answers.quant;
+                console.log(`
+                \n• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •\n
+                Updating product quantities...
+                \n• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+                \n• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •\n
+                New Stock Amount is: ${completeNewStock}
+                \n• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •\n
+                `);
+               
+                let sql = `UPDATE products
+                SET stock_quantity = ${completeNewStock}
+                WHERE Itemid = ${answers.prodId}`
+
+                con.query(sql, (error, results) => {
+                    if (error){
+                    return console.error(error.message);
                     }
-                  ]).then(answers => {
-                    if (answers.confirm){
-                      addInventory();
-                    }else{
-                      logIt('+======= THANK-YOU =======+')
-                      con.end();
-                    }
-              
-                  })
+                    logIt('Rows affected:', results.affectedRows);
+                    inquirer.prompt([
+                        {
+                            type: "confirm",
+                            message: "Do you want to add more?",
+                            name: "confirm",
+                            default: true
+                        }
+                    ]).then(answers => {
+                        if (answers.confirm){
+
+                        addInventory();
+                        }else{
+                        logIt('\n+======= THANK-YOU =======+\n')
+                        ask();
+                        }
+                    })
+                });
             });
          });
     });
@@ -203,7 +226,7 @@ function addNewProduct() {
             message: "Which department does this product belong in?",
         },
         {
-            type: 'input',
+            type: 'number',
             name: 'newProductPrice',
             message: "What is the price? (ex: 10.00)",
             validate: function( value ) {
@@ -213,7 +236,7 @@ function addNewProduct() {
             filter: Number
         },
         {
-            type: 'input',
+            type: 'number',
             name: 'newProductStock',
             message: "How many are in stock?",
             validate: function( value ) {
@@ -221,82 +244,153 @@ function addNewProduct() {
                 return valid || "Please enter a number";
             },
             filter: Number
-        }
-    ]).then(answers => {
-        logIt(answers);
-        productName = answers.newProductName;
-        productDept = answers.newProductDept;
-        productPrice =  answers.newProductPrice;
-        productStock = answers.newProductStock;
-        logIt(productName, productDept, productPrice, productStock);
-        createProduct();
-    });
-
-
-    function createProduct(){
-        logIt("Inserting a new product...\n");
-        var query = con.query(
-        "INSERT INTO products SET ?",
-        {
-            product_name: productName,
-            department_name: productDept,
-            price: productPrice, 
-            stock_quantity: productStock
         },
-        function(err, res) {
-            logIt(res.affectedRows + " product inserted!\n");
-            // Call updateProduct AFTER the INSERT completes
-        }
-        );
-        // logs the actual query being run
-        logIt(query.sql);
-        con.end();
-    }
+    ]).then((results => {
+
+        productName = results.newProductName;
+        productDept = results.newProductDept;
+        productPrice =  results.newProductPrice;
+        productStock = results.newProductStock;
+     
+            inquirer.prompt([{
+                type: "confirm",
+                message: `
+                \nPLEASE CONFIRM YOU WANT TO ADD THIS PRODUCT\n
+                Product Name: ${productName}
+                Product Department: ${productDept}
+                Product Price: ${productPrice}
+                Product Stock: ${productStock}
+                \n
+                `,
+                name: "confirm",
+                default: true,
+                when: function( results ) {
+                    // Only run if user set a name
+                    return results
+                  },
+                }
+            ]).then(answer =>{
+                if (answer.confirm){
+                    createProduct(productName, productDept, productPrice, productStock)
+        
+                }else{
+                
+                }
+             
+
+            });
+            function createProduct(arg1, arg2, arg3, arg4){
+                logIt(`
+                \n• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •\n
+                    Creating New Product...
+                \n• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+                `);
+                var query = con.query(
+                "INSERT INTO products SET ?",
+                {
+                    product_name: arg1,
+                    department_name: arg2,
+                    price: arg3, 
+                    stock_quantity: arg4
+                },
+                function(err, res) {
+                    logIt(res.affectedRows + " product inserted!\n");
+                    // Call updateProduct AFTER the INSERT completes
+                }
+                );
+                // logs the actual query being run
+                logIt(query.sql);
+                logIt(`
+                \n• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •\n
+                MAIN MENU
+                \n• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+                `);
+                ask();
+            }
+
+    }));
+
+
 };
 
 
 function deleteProduct() {
-        inquirer
-        .prompt({
-
+    con.query("SELECT * FROM products", function (err, res) {
+        if (err) throw err;
+        logIt(`
+        ================== MANAGER VIEW ==================
+        `);
+        res.forEach(function(item){
+          productName = item.product_name.toUpperCase();
+          productID = item.Itemid;
+          productDept = item.department_name.toUpperCase();
+          productPrice = item.price;
+          productStock = item.stock_quantity;
+          logIt(`
+          ==========================================
+          ID: ${productID}
+          ITEM NAME: ${productName}
+          DEPARTMENT: ${productDept}
+          PRICE: $${productPrice}
+          STOCK: ${productStock}
+          ==========================================
+          `);
+          prodIdArr.push(productID);
+      });
+      inquirer.prompt([
+            {
             type: 'number',
             name: 'prodId',
             message: "What is the ID of the product you are looking for?",
-
-        })
-        .then(() => {
-            inquirer.prompt({
-                
+            }
+    ]).then((results => {
+            inquirer.prompt([
+                {
                 type: "confirm",
-                message: "Are you sure you want to delete the product?",
+                message: `\nPLEASE CONFIRM YOU WANT TO DELETE THIS PRODUCT\n
+                Product Name: ${productName}
+                Product Department: ${productDept}
+                Product Price: ${productPrice}
+                Product Stock: ${productStock}
+                \n
+                `,
                 name: "confirm",
-                default: true
-            }).then(answers => {
-                if (answers.confirm){
-                    logIt("Deleting this item..\n");
-                    con.query(
-                    "DELETE FROM products WHERE ?",
-                    {
-                        Itemid: answers.prodId
-                    },
-                    function(err, res) {
-                        console.log(res);
-                        logIt(res.affectedRows + " products deleted!\n");
-                        con.end();
-                    }
-                    );
-                }else {
-                    console.log(`\n
-                    You did not confirm the delete. Try again.
-                    \n`)
+                default: true,
+                when: function( results ) {
+                    // Only run if user set a name
+                    return results
+                  }
+                },
+            ]).then(answer => {
+                if (answer.confirm){
+                    logIt(`
+                    \n• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •\n
+                    Deleting this product...
+                    \n• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+                    `);
+                    if (err) throw err;
+                    var sql = "DELETE FROM products WHERE Itemid=" +  results.prodId;
+                    con.query(sql, function (err, result) {
+                      if (err) throw err;
+                      console.log(`
+                      \n• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •\n
+                      Number of rows affected: ${result.affectedRows}
+                      \n• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+                      `);
+                    });
+                    ask();
+                }else{
+                    logIt(`
+                    \n• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •\n
+                      You did not confirm. Please try again.
+                    \n• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+                    `);
                     deleteProduct();
                 }
             });
-        });
-        
-        
-    }
-
+        }));
+    });
+}
 
 function logIt (logFile) {
     console.log(logFile);

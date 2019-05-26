@@ -228,4 +228,5064 @@ STOCK: 3
 PRODUCT ID: 9
                     
 ==========================================
+                    connected as id 519View Low Inventory
+                    
+==========================================
+                    
+ITEM NAME: Fruit of the Loom Men's Tucked V-Neck T-Shirt
+                    
+STOCK: 4
+                    
+PRODUCT ID: 5
+                    
+==========================================
+                    
+                    
+==========================================
+                    
+ITEM NAME: Comfort Plus 8-Piece Gardening Tool Set
+                    
+STOCK: 3
+                    
+PRODUCT ID: 9
+                    
+==========================================
+                    connected as id 520View Low Inventory
+                    
+==========================================
+                    
+ITEM NAME: Fruit of the Loom Men's Tucked V-Neck T-Shirt
+                    
+STOCK: 4
+                    
+PRODUCT ID: 5
+                    
+==========================================
+                    
+                    
+==========================================
+                    
+ITEM NAME: Comfort Plus 8-Piece Gardening Tool Set
+                    
+STOCK: 3
+                    
+PRODUCT ID: 9
+                    
+==========================================
+                    connected as id 521
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 3
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 15
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          Rows affected:+======= THANK-YOU =======+connected as id 522View Products
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 3
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          connected as id 523
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 3
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          Rows affected:
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 15
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 3
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          Rows affected:+======= THANK-YOU =======+connected as id 524View Products
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 3
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 5
+          ==========================================
+          connected as id 525View Low Inventory
+                    
+==========================================
+                    
+ITEM NAME: Fruit of the Loom Men's Tucked V-Neck T-Shirt
+                    
+STOCK: 4
+                    
+PRODUCT ID: 5
+                    
+==========================================
+                    
+                    
+==========================================
+                    
+ITEM NAME: Comfort Plus 8-Piece Gardening Tool Set
+                    
+STOCK: 3
+                    
+PRODUCT ID: 9
+                    
+==========================================
+                    connected as id 526
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 3
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          Rows affected:+======= THANK-YOU =======+connected as id 527View Low Inventory
+                    
+==========================================
+                    
+ITEM NAME: Fruit of the Loom Men's Tucked V-Neck T-Shirt
+                    
+STOCK: 4
+                    
+PRODUCT ID: 5
+                    
+==========================================
+                    
+                    
+==========================================
+                    
+ITEM NAME: Comfort Plus 8-Piece Gardening Tool Set
+                    
+STOCK: 3
+                    
+PRODUCT ID: 9
+                    
+==========================================
+                    connected as id 528View Products
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 3
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          connected as id 529View Low Inventory
+                    
+==========================================
+                    
+ITEM NAME: Fruit of the Loom Men's Tucked V-Neck T-Shirt
+                    
+STOCK: 4
+                    
+PRODUCT ID: 5
+                    
+==========================================
+                    
+                    
+==========================================
+                    
+ITEM NAME: Comfort Plus 8-Piece Gardening Tool Set
+                    
+STOCK: 3
+                    
+PRODUCT ID: 9
+                    
+==========================================
+                    connected as id 530connected as id 531connected as id 532connected as id 533• View Products
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 3
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          connected as id 534
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 3
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          Rows affected:+======= THANK-YOU =======+connected as id 535• View Products
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 3
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 3
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          Rows affected:
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 3
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 21
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          Rows affected:+======= THANK-YOU =======+connected as id 536
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 21
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          Rows affected:+======= THANK-YOU =======+connected as id 537
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 21
+          ==========================================
+          Rows affected:connected as id 538
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 21
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          connected as id 539
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 21
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          connected as id 540
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 21
+          ==========================================
+          connected as id 541
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 21
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          connected as id 542
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 21
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          connected as id 543
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 21
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          connected as id 544
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 21
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          connected as id 545connected as id 546
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 21
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          connected as id 547
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 21
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 22
+          ==========================================
+          connected as id 548
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 21
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          connected as id 549
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 21
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          connected as id 550
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 3
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 8
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          connected as id 551
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 3
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 8
+          ==========================================
+          connected as id 552• View Products
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 3
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 8
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          connected as id 553
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 3
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 8
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          connected as id 554
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 3
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 8
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          connected as id 555
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 3
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 8
+          ==========================================
+          Rows affected:+======= THANK-YOU =======+connected as id 556• View Products
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 3
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 3
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          Rows affected:
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 3
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 15
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          Rows affected:+======= THANK-YOU =======+connected as id 557
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 15
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 1
+          ==========================================
+          Rows affected:+======= THANK-YOU =======+connected as id 558
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 17
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          Rows affected:connected as id 559
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          Rows affected:connected as id 560
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          Rows affected:+======= THANK-YOU =======+connected as id 561
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 18
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 20
+          ==========================================
+          Rows affected:
++======= THANK-YOU =======+
+connected as id 562connected as id 563connected as id 564connected as id 565connected as id 566connected as id 567[object Object]undefinedInserting a new product...
+INSERT INTO products SET `product_name` = NULL, `department_name` = NULL, `price` = NULL, `stock_quantity` = NULLconnected as id 568[object Object]Inserting a new product...
+INSERT INTO products SET `product_name` = NULL, `department_name` = NULL, `price` = NULL, `stock_quantity` = NULLconnected as id 569connected as id 570[object Object]Inserting a new product...
+connected as id 571[object Object]Inserting a new product...
+connected as id 572[object Object]Inserting a new product...
+connected as id 573[object Object]Inserting a new product...
+connected as id 574[object Object]Inserting a new product...
+connected as id 575[object Object]Inserting a new product...
+connected as id 576connected as id 577connected as id 578connected as id 579connected as id 580• View Products
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 20
+          ==========================================
+          connected as id 581connected as id 582connected as id 583connected as id 584Inserting a new product...
+connected as id 585Inserting a new product...
+connected as id 586Inserting a new product...
+connected as id 587connected as id 588connected as id 589
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 19
+          ==========================================
+          connected as id 590connected as id 591connected as id 592connected as id 593connected as id 594connected as id 595connected as id 596connected as id 597connected as id 598connected as id 599connected as id 600connected as id 601Inserting a new product...
+INSERT INTO products SET `product_name` = 'Skateboard', `department_name` = 'Sports', `price` = 10, `stock_quantity` = 101 product inserted!
+connected as id 602connected as id 603
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 11
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $99.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 12
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $10
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 13
+          ==========================================
+          
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 11
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $99.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 12
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $10
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          connected as id 604
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 12
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $10
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 11
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $99.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 13
+          ==========================================
+          connected as id 605
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 11
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $99.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 12
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $10
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 19
+          ==========================================
+          Deleting this item..
+0 products deleted!
+• View Products
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 11
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $99.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 12
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $10
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 19
+          ==========================================
+          
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 11
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $99.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 12
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $10
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          Deleting this item..
+0 products deleted!
+connected as id 606
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 11
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $99.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 12
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $10
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          connected as id 607
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 11
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $99.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 12
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $10
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          Deleting this item..
+connected as id 608
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 11
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $99.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 12
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $10
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 13
+          ==========================================
+          Deleting this item..
+connected as id 609
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 11
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $99.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 12
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $10
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          connected as id 610
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 11
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $99.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 12
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $10
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          connected as id 611
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 11
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $99.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 12
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $10
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          Deleting this item..
+connected as id 612
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 11
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $99.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 12
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $10
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          Deleting this item..
+connected as id 613
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 11
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $99.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 12
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $10
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          Deleting this item..
+connected as id 614
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 12
+          ITEM NAME: SKATEBOARD
+          DEPARTMENT: SPORTS
+          PRICE: $10
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          Deleting this item..
+connected as id 615• View Products
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          connected as id 616• View Products
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 20
+          ==========================================
+          
+                
+• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+
+                MAIN MENU
+                
+• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+                
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          connected as id 617connected as id 618connected as id 619connected as id 620• View Products
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 20
+          ==========================================
+          
+        
+• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+
+        MAIN MENU
+        
+• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+        
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          connected as id 621• View Low Inventory
+                    
+==========================================
+                    
+ITEM NAME: Rivet Rustic Textured Stoneware Planter, 6.25"H, Bronze
+                    
+STOCK: 1
+                    
+PRODUCT ID: 8
+                    
+==========================================
+                    
+                
+• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+
+                MAIN MENU
+                
+• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+            
+                    
+==========================================
+                    
+ITEM NAME: Fruit of the Loom Men's Tucked V-Neck T-Shirt
+                    
+STOCK: 4
+                    
+PRODUCT ID: 5
+                    
+==========================================
+                    connected as id 622connected as id 623connected as id 624connected as id 625connected as id 626connected as id 627connected as id 628connected as id 629connected as id 630connected as id 631• View Low Inventory
+                    
+==========================================
+                    
+ITEM NAME: Fruit of the Loom Men's Tucked V-Neck T-Shirt
+                    
+STOCK: 4
+                    
+PRODUCT ID: 5
+                    
+==========================================
+                    
+                    
+==========================================
+                    
+ITEM NAME: Rivet Rustic Textured Stoneware Planter, 6.25"H, Bronze
+                    
+STOCK: 1
+                    
+PRODUCT ID: 8
+                    
+==========================================
+                    
+                
+• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+
+                MAIN MENU
+                
+• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+            connected as id 632• View Low Inventory
+                    
+==========================================
+                    
+ITEM NAME: Fruit of the Loom Men's Tucked V-Neck T-Shirt
+                    
+STOCK: 4
+                    
+PRODUCT ID: 5
+                    
+==========================================
+                    
+                    
+==========================================
+                    
+ITEM NAME: Rivet Rustic Textured Stoneware Planter, 6.25"H, Bronze
+                    
+STOCK: 1
+                    
+PRODUCT ID: 8
+                    
+==========================================
+                    
+                
+• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+
+                MAIN MENU
+                
+• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+            connected as id 633connected as id 634connected as id 635connected as id 636connected as id 637connected as id 638connected as id 639connected as id 640connected as id 641connected as id 642connected as id 643connected as id 644connected as id 645connected as id 646connected as id 647connected as id 648connected as id 649connected as id 650connected as id 651connected as id 652connected as id 653connected as id 654connected as id 655connected as id 656connected as id 657connected as id 658connected as id 659connected as id 660connected as id 661connected as id 662connected as id 663connected as id 664connected as id 665connected as id 666connected as id 667connected as id 668connected as id 669• View Low Inventory
+                    
+==========================================
+                    
+ITEM NAME: Fruit of the Loom Men's Tucked V-Neck T-Shirt
+                    
+STOCK: 4
+                    
+PRODUCT ID: 5
+                    
+==========================================
+                    
+                    
+==========================================
+                    
+ITEM NAME: Rivet Rustic Textured Stoneware Planter, 6.25"H, Bronze
+                    
+STOCK: 1
+                    
+PRODUCT ID: 8
+                    
+==========================================
+                    
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 1
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          Rows affected:
++======= THANK-YOU =======+
+connected as id 670connected as id 671
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 14
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          connected as id 672• View Low Inventory
+                    
+==========================================
+                    
+ITEM NAME: Fruit of the Loom Men's Tucked V-Neck T-Shirt
+                    
+STOCK: 4
+                    
+PRODUCT ID: 5
+                    
+==========================================
+                    • View Low Inventory
+                    
+==========================================
+                    
+ITEM NAME: Fruit of the Loom Men's Tucked V-Neck T-Shirt
+                    
+STOCK: 4
+                    
+PRODUCT ID: 5
+                    
+==========================================
+                    connected as id 673VIEW LOW INVENTORY• View Low Inventory
+                    
+==========================================
+                    
+ITEM NAME: Fruit of the Loom Men's Tucked V-Neck T-Shirt
+                    
+STOCK: 4
+                    
+PRODUCT ID: 5
+                    
+==========================================
+                    connected as id 674
+            
+        
+VIEW LOW INVENTORY
+
+        • View Low Inventory
+                    
+==========================================
+                    
+ITEM NAME: Fruit of the Loom Men's Tucked V-Neck T-Shirt
+                    
+STOCK: 4
+                    
+PRODUCT ID: 5
+                    
+==========================================
+                    connected as id 675
+            
+        
+VIEW LOW INVENTORY
+
+        
+                    
+==========================================
+                    
+ITEM NAME: Fruit of the Loom Men's Tucked V-Neck T-Shirt
+                    
+STOCK: 4
+                    
+PRODUCT ID: 5
+                    
+==========================================
+                    connected as id 676
+        ----------------------   
+        
+VIEW LOW INVENTORY
+
+        ----------------------  
+        
+                    
+==========================================
+                    
+ITEM NAME: Fruit of the Loom Men's Tucked V-Neck T-Shirt
+                    
+STOCK: 4
+                    
+PRODUCT ID: 5
+                    
+==========================================
+                    connected as id 677• View Products
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 14
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+        
+• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+
+        MAIN MENU
+        
+• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+        
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          connected as id 678
+        
+---------------------------   
+        
+VIEW LOW INVENTORY
+
+        
+----------------------------  
+        
+                    
+==========================================
+                    
+ITEM NAME: Fruit of the Loom Men's Tucked V-Neck T-Shirt
+                    
+STOCK: 4
+                    
+PRODUCT ID: 5
+                    
+==========================================
+                    connected as id 679
+                    
+---------------------------   
+                    
+VIEW LOW INVENTORY
+
+                    
+----------------------------  
+                    
+                    
+==========================================
+                    
+ITEM NAME: Fruit of the Loom Men's Tucked V-Neck T-Shirt
+                    
+STOCK: 4
+                    
+PRODUCT ID: 5
+                    
+==========================================
+                    connected as id 680
+                    
+	---------------------------   
+                    
+	VIEW LOW INVENTORY
+
+                    
+	----------------------------  
+                    
+                    
+==========================================
+                    
+ITEM NAME: Fruit of the Loom Men's Tucked V-Neck T-Shirt
+                    
+STOCK: 4
+                    
+PRODUCT ID: 5
+                    
+==========================================
+                    connected as id 681
+                    
+	------------------------------------------------  
+                    
+	VIEW LOW INVENTORY
+
+                    	-------------------------------------- 
+                    
+                    
+==========================================
+                    
+ITEM NAME: Fruit of the Loom Men's Tucked V-Neck T-Shirt
+                    
+STOCK: 4
+                    
+PRODUCT ID: 5
+                    
+==========================================
                     

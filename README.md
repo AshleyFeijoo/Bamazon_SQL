@@ -74,4 +74,10 @@ Bamazon is built with the following extensions/programs:
 
         * View Low Inventory will allow the manager to see all the products in the store that have less than 5 items in stock.
 
-            ![manager-View](./images/Manager_View_Products.gif)
+            ![manager-View](./images/Manager_Low_Inv_Demo.gif)
+
+    * Add To Inventory
+
+        * Add to inventory allows the manager to add more stock to a product that is already available.
+
+            ![manager-View](./images/Manager_Low_Inv_Demo.gif)

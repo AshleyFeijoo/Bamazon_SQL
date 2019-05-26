@@ -84,7 +84,7 @@ ask(); //the ask function is called upon which prompts the user to enter the
             },
           },
           {
-            type: 'input',
+            type: 'number',
             name: 'quant',
             message: "How many do you need?",
       // if the number entered by the user is not an integer, the prompt function will stop and validate. 
