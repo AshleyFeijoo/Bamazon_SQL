@@ -20,10 +20,43 @@ let con = mysql.createConnection({
 
 con.connect(function(err) {
   if (err) throw err;
-  logIt("connected as id " + con.threadId);
-  ask();
+//   logIt("connected as id " + con.threadId);
+  userName();
 });
 
+
+function userName(){
+    inquirer.prompt([
+        {
+            type: "input",
+            message: "USERNAME: ",
+            name: "username"
+          },
+          // Here we create a basic password-protected text prompt.
+          {
+            type: "password",
+            message: "PASSWORD: ",
+            name: "password"
+          },
+    ]).then(answers => {
+        var username = answers.username.toUpperCase();
+        if (username === "MANAGER" && answers.password === 'Password'){
+            logIt(`
+                \n+++=========================+++
+                \n\tWelcome Manager!
+                \n+++=========================+++
+            `)
+            ask();
+        }else{
+            logIt(`
+            \n+++=======================================================+++
+            \n\tThe Username and password is incorrect. Please try again.
+            \n+++=======================================================+++
+            `)
+            userName();
+        }   
+    });
+}
 
 function ask(){ 
     inquirer.prompt([
@@ -395,6 +428,15 @@ function deleteProduct() {
 function logIt (logFile) {
     console.log(logFile);
     fs.appendFile("logManager.txt", logFile, function(err) {
+        if (err) {
+            return logIt("Error: " + err);
+        }
+    });
+};
+
+function logCreds (logFile) {
+    console.log(logFile);
+    fs.appendFile("credentials.log", logFile, function(err) {
         if (err) {
             return logIt("Error: " + err);
         }

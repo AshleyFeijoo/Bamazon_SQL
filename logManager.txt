@@ -5931,4 +5931,98 @@ connected as id 11
         MAIN MENU
         
 • • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
-        connected as id 14
+        connected as id 14connected as id 15connected as id 16connected as id 17connected as id 18connected as id 19connected as id 20The Username and password is incorrect. Please try again.connected as id 21connected as id 22
+                
++++=========================+++
+                    Welcome Manager!
+                
++++=========================+++
+
+            connected as id 23
+                
++++=========================+++
+                Welcome Manager!
+                
++++=========================+++
+
+            
+                    
+==========================================
+                    
+ITEM NAME: Fruit of the Loom Men's Tucked V-Neck T-Shirt
+                    
+STOCK: 4
+                    
+PRODUCT ID: 5
+                    
+==========================================
+                    connected as id 24
+                
++++=========================+++
+                
+Welcome Manager!
+                
++++=========================+++
+
+            connected as id 25
+                
++++=========================+++
+                
+	Welcome Manager!
+                
++++=========================+++
+
+            connected as id 26
+                
++++=========================+++
+                
+	Welcome Manager!
+                
++++=========================+++
+            connected as id 27
+                
++++=========================+++
+                
+	Welcome Manager!
+                
++++=========================+++
+            connected as id 28
+                
++++=========================+++
+                
+	Welcome Manager!
+                
++++=========================+++
+            connected as id 29
+                
++++=========================+++
+                
+	Welcome Manager!
+                
++++=========================+++
+            
+                    
+==========================================
+                    
+ITEM NAME: Fruit of the Loom Men's Tucked V-Neck T-Shirt
+                    
+STOCK: 4
+                    
+PRODUCT ID: 5
+                    
+==========================================
+                    
+                
++++=========================+++
+                
+	Welcome Manager!
+                
++++=========================+++
+            
+                
++++=========================+++
+                
+	Welcome Manager!
+                
++++=========================+++
+            

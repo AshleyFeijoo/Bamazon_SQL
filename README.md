@@ -60,9 +60,9 @@ Bamazon is built with the following extensions/programs:
 
     * This command will display the **Manager View**. The manager view allows managers of the store to select managerial commands.
 
-    * When first prompted, `node bamazonManager` will show the manager the following screen:
+    * When first prompted, `node bamazonManager` will show the manager the following log-in screen. If the credentials are correct, it will presen the managerial options:
 
-        ![Manager-Welcome](./images/Manager_Welcome_Demo.gif)
+        ![Manager-Welcome](./images/Manager_Credentials.gif)
 
     * View Products
 
