@@ -97,5 +97,3 @@ Bamazon is built with the following extensions/programs:
         * Delete Product allows the manager to delete a product from inventory.
 
             ![manager-View](./images/Manager_Delete_Inv.gif)
-
-***
