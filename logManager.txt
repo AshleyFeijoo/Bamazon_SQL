@@ -5565,3 +5565,370 @@ connected as id 7
           ==========================================
           Rows affected:
 +======= THANK-YOU =======+
+connected as id 11
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 14
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 12
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 11
+          ITEM NAME: HP SMART HOME PRINTER
+          DEPARTMENT: ELECTRONICS
+          PRICE: $149.97
+          STOCK: 17
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          connected as id 12
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 14
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 12
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 11
+          ITEM NAME: HP SMART HOME PRINTER
+          DEPARTMENT: ELECTRONICS
+          PRICE: $149.97
+          STOCK: 17
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          connected as id 13
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 14
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 12
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 11
+          ITEM NAME: HP SMART HOME PRINTER
+          DEPARTMENT: ELECTRONICS
+          PRICE: $149.97
+          STOCK: 17
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+                    
+• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+
+                    Deleting this product...
+                    
+• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+                    • View Products
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          DEPARTMENT: ELECTRONICS
+          PRICE: $239.99
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $399.99
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $29.99
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          DEPARTMENT: ELECTRONICS
+          PRICE: $139.81
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          DEPARTMENT: APPAREL
+          PRICE: $12.89
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          DEPARTMENT: APPAREL
+          PRICE: $16.98
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          DEPARTMENT: APPAREL
+          PRICE: $23.99
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $22.99
+          STOCK: 14
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          DEPARTMENT: HOME & KITCHEN
+          PRICE: $39.99
+          STOCK: 22
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          DEPARTMENT: OUTDOOR & GARDEN
+          PRICE: $52.99
+          STOCK: 12
+          ==========================================
+          
+        
+• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+
+        MAIN MENU
+        
+• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+        

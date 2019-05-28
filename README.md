@@ -91,3 +91,11 @@ Bamazon is built with the following extensions/programs:
         * You can see here that the table in the DB is updated with the new inventory for ID 10 and the new product, *Hp Smart Home Computer*
 
             ![manager-View](./images/tableupdate.png)
+
+    * Delete Product
+
+        * Delete Product allows the manager to delete a product from inventory.
+
+            ![manager-View](./images/Manager_Delete_Inv.gif)
+
+***
