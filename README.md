@@ -86,9 +86,9 @@ Bamazon is built with the following extensions/programs:
 
             ![manager-View](./images/Manager_Add_Inv.gif)
 
-    * Add To Inventory
+    * Add New Product
 
-        * Add to inventory allows the manager to create a new product and add it to the inventory.
+        * Add New Product allows the manager to create a new product and add it to the inventory.
 
             ![manager-View](./images/Manager_Add_New_Inv.gif)
 
