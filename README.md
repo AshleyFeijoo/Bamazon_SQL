@@ -88,6 +88,8 @@ Bamazon is built with the following extensions/programs:
 
             ![manager-View](./images/Manager_Add_New_Inv.gif)
 
-    * You can see here that the table in the DB is updated with the new inventory for ID 10 and the new product, *Hp Smart Home Computer*
+***
 
-        ![table-Update](./images/tableupdate.png)
+        * You can see here that the table in the DB is updated with the new inventory for ID 10 and the new product, *Hp Smart Home Computer*
+
+            ![table-Update](./images/tableupdate.png)
