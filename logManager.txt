@@ -5288,4 +5288,280 @@ STOCK: 4
 PRODUCT ID: 5
                     
 ==========================================
-                    
+                    connected as id 683
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 14
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 13
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          connected as id 688
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 14
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 12
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 19
+          ==========================================
+          connected as id 3connected as id 4connected as id 5connected as id 6
+                
+• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+
+                    Creating New Product...
+                
+• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+                INSERT INTO products SET `product_name` = 'HP Smart Home Printer', `department_name` = 'Electronics', `price` = 149.97, `stock_quantity` = 17
+                
+• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+
+                MAIN MENU
+                
+• • •  • • •  • • •  • • •  • • •  • • •  • • •  • • •
+                1 product inserted!
+connected as id 7
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 14
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 12
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 11
+          ITEM NAME: HP SMART HOME PRINTER
+          STOCK: 17
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          connected as id 8
+        ================== MANAGER VIEW ==================
+        
+          ==========================================
+          ID: 1
+          ITEM NAME: TCL 43 INCH 4K TV
+          STOCK: 19
+          ==========================================
+          
+          ==========================================
+          ID: 2
+          ITEM NAME: DYSON CYCLONE V10
+          STOCK: 7
+          ==========================================
+          
+          ==========================================
+          ID: 3
+          ITEM NAME: HAMILTON BEACH WAVE CRUSHER BLENDER
+          STOCK: 10
+          ==========================================
+          
+          ==========================================
+          ID: 4
+          ITEM NAME: SAMSUNG CHROMEBOOK 3
+          STOCK: 6
+          ==========================================
+          
+          ==========================================
+          ID: 6
+          ITEM NAME: STYLEWORD WOMEN'S V NECK FLORAL SUN DRESS
+          STOCK: 5
+          ==========================================
+          
+          ==========================================
+          ID: 7
+          ITEM NAME: CARTER'S BABY GIRLS' 8-PACK SHORT-SLEEVE BODYSUITS
+          STOCK: 9
+          ==========================================
+          
+          ==========================================
+          ID: 8
+          ITEM NAME: RIVET RUSTIC TEXTURED STONEWARE PLANTER, 6.25"H, BRONZE
+          STOCK: 14
+          ==========================================
+          
+          ==========================================
+          ID: 9
+          ITEM NAME: COMFORT PLUS 8-PIECE GARDENING TOOL SET
+          STOCK: 12
+          ==========================================
+          
+          ==========================================
+          ID: 10
+          ITEM NAME: BAMAZONBASICS 18-PIECE DINNERWARE SET
+          STOCK: 20
+          ==========================================
+          
+          ==========================================
+          ID: 11
+          ITEM NAME: HP SMART HOME PRINTER
+          STOCK: 17
+          ==========================================
+          
+          ==========================================
+          ID: 5
+          ITEM NAME: FRUIT OF THE LOOM MEN'S TUCKED V-NECK T-SHIRT
+          STOCK: 4
+          ==========================================
+          Rows affected:
++======= THANK-YOU =======+

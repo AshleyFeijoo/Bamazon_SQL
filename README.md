@@ -80,4 +80,14 @@ Bamazon is built with the following extensions/programs:
 
         * Add to inventory allows the manager to add more stock to a product that is already available.
 
-            ![manager-View](./images/Manager_Low_Inv_Demo.gif)
+            ![manager-View](./images/Manager_Add_Inv.gif)
+
+    * Add To Inventory
+
+        * Add to inventory allows the manager to create a new product and add it to the inventory.
+
+            ![manager-View](./images/Manager_Add_New_Inv.gif)
+
+    * You can see here that the table in the DB is updated with the new inventory for ID 10 and the new product, *Hp Smart Home Computer*
+
+            ![table-update](./images/tableupdate.png)
