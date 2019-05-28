@@ -21,11 +21,11 @@ let con = mysql.createConnection({
 con.connect(function(err) {
   if (err) throw err;
 //   logIt("connected as id " + con.threadId);
-  userName();
+  credentials();
 });
 
 
-function userName(){
+function credentials(){
     inquirer.prompt([
         {
             type: "input",
@@ -53,7 +53,7 @@ function userName(){
             \n\tThe Username and password is incorrect. Please try again.
             \n+++=======================================================+++
             `)
-            userName();
+            credentials();
         }   
     });
 }
