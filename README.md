@@ -64,7 +64,7 @@ Bamazon is built with the following extensions/programs:
 
         ![Manager-Welcome](./images/Manager_Credentials.gif)
 
-        * if the credentials are incorrect, the manager will be prompted to try again.
+         * if the credentials are incorrect, the manager will be prompted to try again.
 
             ![Manager-Error](./images/Manager_Cred_Fail.gif)
 
