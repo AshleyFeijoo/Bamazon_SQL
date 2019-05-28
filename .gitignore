@@ -1,4 +1,4 @@
 node_modules
 .DS_Store
-test.js
-homework_instructions.md
+.test.js
+.homework_instructions.md
